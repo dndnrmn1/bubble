@@ -1,9 +1,9 @@
 ---
 name: Bug report:Update main.blocks
 about: A new update is released
-title: ''
-labels: ''
-assignees: ''
+title: New Update
+labels: bug
+assignees: dndnrmn1
 
 ---
 
